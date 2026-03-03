@@ -1,0 +1,12 @@
+[project]
+name = "tfapp-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bcrypt>=5.0.0",
+    "peewee>=4.0.1",
+    "psycopg2>=2.9.11",
+    "pymongo>=4.16.0",
+]
